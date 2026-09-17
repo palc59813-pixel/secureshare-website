@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SecureShare Asset Consultancy | Share & IEPF Recovery</title>
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    body {
+      background-color: #f8fafc;
+      color: #1e293b;
+      line-height: 1.6;
+    }
+    header {
+      background: linear-gradient(135deg, #0f172a 0%, #1e3a8a 100%);
+      color: white;
+      text-align: center;
+      padding: 40px 20px;
+    }
+    header h1 {
+      font-size: 24px;
+      margin-bottom: 8px;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+    header p {
+      font-size: 13px;
+      color: #38bdf8;
+      font-weight: 600;
+    }
+    .container {
+      max-width: 650px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+    .card {
+      background: white;
+      border-radius: 12px;
+      padding: 20px;
+      margin-bottom: 20px;
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+    }
+    .card h2 {
+      font-size: 17px;
+      color: #1e3a8a;
+      margin-bottom: 12px;
+      border-bottom: 2px solid #e2e8f0;
+      padding-bottom: 6px;
+    }
+    .service-item, .trust-item {
+      display: flex;
+      align-items: flex-start;
+      margin-bottom: 10px;
+      font-size: 13.5px;
+    }
+    .service-item span {
+      color: #16a34a;
+      font-weight: bold;
+      margin-right: 8px;
+    }
+    .trust-item {
+      color: #166534;
+    }
+    .trust-item span {
+      color: #16a34a;
+      font-weight: bold;
+      margin-right: 8px;
+    }
+    .owner-box {
+      background: #f0fdf4;
+      border: 2px solid #22c55e;
+      border-radius: 10px;
+      padding: 15px;
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    .owner-box h3 {
+      font-size: 16px;
+      color: #166534;
+      margin-bottom: 4px;
+    }
+    .owner-box .role {
+      font-size: 12px;
+      font-weight: bold;
+      color: #15803d;
+      text-transform: uppercase;
+      margin-bottom: 8px;
+    }
+    .partners-grid {
+      display: flex;
+      gap: 15px;
+      margin-bottom: 20px;
+    }
+    .partner-card {
+      flex: 1;
+      text-align: center;
+      background: #eff6ff;
+      border: 1px solid #bfdbfe;
+      border-radius: 10px;
+      padding: 15px 10px;
+    }
+    .partner-card h3 {
+      font-size: 14px;
+      color: #1e3a8a;
+      margin-bottom: 4px;
+    }
+    .partner-card .desig {
+      font-size: 11px;
+      font-weight: bold;
+      color: #16a34a;
+      text-transform: uppercase;
+      margin-bottom: 8px;
+    }
+    .partner-card p {
+      font-size: 11px;
+      color: #475569;
+      margin-top: 2px;
+      word-break: break-all;
+    }
+    .social-links {
+      display: flex;
+      justify-content: center;
+      gap: 15px;
+      margin-bottom: 20px;
+      font-size: 13px;
+      flex-wrap: wrap;
+    }
+    .social-links a {
+      color: #1e3a8a;
+      text-decoration: none;
+      font-weight: 600;
+      background: #e2e8f0;
+      padding: 8px 12px;
+      border-radius: 6px;
+    }
+    .cta-buttons {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      margin-top: 20px;
+    }
+    .btn {
+      width: 100%;
+      text-align: center;
+      padding: 12px;
+      border-radius: 8px;
+      font-weight: bold;
+      text-decoration: none;
+      font-size: 13px;
+      color: white;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+    .btn-whatsapp-1 {
+      background-color: #25d366;
+    }
+    .btn-whatsapp-2 {
+      background-color: #16a34a;
+    }
+    footer {
+      text-align: center;
+      font-size: 12px;
+      color: #64748b;
+      padding: 20px;
+      border-top: 1px solid #e2e8f0;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>SecureShare Asset Consultancy</h1>
+    <p>100% Legal, Transparent & Direct Credit Process</p>
+  </header>
+
+  <div class="container">
+    
+    <div class="owner-box">
+      <h3>Chandan Kumar</h3>
+      <div class="role">Main Owner & Founder</div>
+      <p style="font-size: 12px; color: #334155;">📞 9022106630 | ✉️ kumarchandan59813@gmail.com</p>
+    </div>
+
+    <h2 style="font-size: 15px; color: #1e3a8a; margin-bottom: 10px; text-align: center;">Our Leadership Team</h2>
+    <div class="partners-grid">
+      <div class="partner-card">
+        <h3>Rampreet Yadav</h3>
+        <div class="desig">Partner</div>
+        <p>📞 7977236811</p>
+        <p>✉️ rampreet294@gmail.com</p>
+      </div>
+    </div>
+
+    <div class="social-links">
+      <a href="https://facebook.com" target="_blank">📘 Facebook: Secureshare Asset Consultancy</a>
+      <a href="https://instagram.com" target="_blank">📷 Instagram: secureshare</a>
+    </div>
+
+    <div class="card">
+      <h2>Our Core Services</h2>
+      <div class="service-item">
+        <span>✔</span>
+        <div><strong>Physical to Demat:</strong> Convert old paper share certificates into online Demat accounts.</div>
+      </div>
+      <div class="service-item">
+        <span>✔</span>
+        <div><strong>IEPF Recovery:</strong> Claim stuck shares and unpaid dividends transferred to IEPF Authority.</div>
+      </div>
+      <div class="service-item">
+        <span>✔</span>
+        <div><strong>Duplicate Share Issue:</strong> Get Letters of Confirmation for lost or misplaced certificates.</div>
+      </div>
+      <div class="service-item">
+        <span>✔</span>
+        <div><strong>Share Transmission:</strong> Smooth transfer of shares to legal heirs after certificate holder's demise.</div>
+      </div>
+    </div>
+
+    <div class="card" style="background: #f0fdf4; border: 1px solid #bbf7d0;">
+      <h2 style="color: #166534; border-color: #bbf7d0;">Why Trust Us?</h2>
+      <div class="trust-item">
+        <span>•</span>
+        <div>Your Assets, Your Accounts: Recovered shares and dividends go directly into your personal Demat and bank accounts.</div>
+      </div>
+      <div class="trust-item">
+        <span>•</span>
+        <div>100% Legal & Transparent Process with Zero Third-Party Transfer Risk.</div>
+      </div>
+      <div class="trust-item">
+        <span>•</span>
+        <div>Safe, Secure & Direct: We never request or hold your bank or Demat account passwords.</div>
+      </div>
+      <div class="trust-item">
+        <span>•</span>
+        <div>Trusted Financial Guidance for Unlocking Your Stuck Family Wealth.</div>
+      </div>
+      <div class="trust-item">
+        <span>•</span>
+        <div>Performance-Linked Engagement: Professional fees payable only after successful recovery and credit.</div>
+      </div>
+    </div>
+
+    <div class="cta-buttons">
+      <a href="https://wa.me/919022106630?text=Hello%20Chandan%20Ji,%20I%20want%20to%20consult%20regarding%20my%20stuck%20shares." class="btn btn-whatsapp-1" target="_blank">💬 WhatsApp Chandan Kumar (9022106630)</a>
+      <a href="https://wa.me/917977236811?text=Hello%20Rampreet%20Ji,%20I%20want%20to%20consult%20regarding%20my%20stuck%20shares." class="btn btn-whatsapp-2" target="_blank">💬 WhatsApp Rampreet Yadav (7977236811)</a>
+    </div>
+
+  </div>
+
+  <footer>
+    <p>&copy; 2026 SecureShare Asset Consultancy. All Rights Reserved.<br>
+    Direct Legal & Transparent Share Recovery Experts</p>
+  </footer>
+
+</body>
+</html>
